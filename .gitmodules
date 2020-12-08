@@ -1,0 +1,6 @@
+[submodule "lmsapp-ui"]
+	path = lmsapp-ui
+	url = https://github.com/sf-fresher-batch-2020/lmsapp-ui.git
+[submodule "lms-angular-ui"]
+	path = lms-angular-ui
+	url = https://github.com/sf-fresher-batch-2020/lms-angular-ui.git
